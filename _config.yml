@@ -16,12 +16,12 @@ nav:
   - title: "주간 보고서"
     url: "/weekly-reports/"
   - title: "Contribution Log"
-    items:
-      - title: "Kim Ji-yoon"
+    children:
+      - title: "김지윤"
         url: "/contribution-log/kim-ji-yoon/"
-      - title: "Park Su-jin"
+      - title: "박수진"
         url: "/contribution-log/park-su-jin/"
-      - title: "Jung Ji-won"
+      - title: "정지원"
         url: "/contribution-log/jung-ji-won/"
-      - title: "Lee Da-eun"
+      - title: "이다은"
         url: "/contribution-log/lee-da-eun/"
