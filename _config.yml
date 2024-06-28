@@ -16,6 +16,7 @@ nav:
   - title: "주간 보고서"
     url: "/weekly-reports/"
   - title: "Contribution Log"
+    url: "/contribution-log/"
     children:
       - title: "김지윤"
         url: "/contribution-log/kim-ji-yoon/"
