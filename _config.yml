@@ -19,7 +19,7 @@ nav:
     url: "/pages/contribution-log/"
     children:
       - title: "김지윤"
-        url: "/pages/contribution-log/kim-ji-yoon/"
+        url: "/contribution-log/kim-ji-yoon/"
       - title: "박수진"
         url: "/pages/contribution-log/park-su-jin/"
       - title: "정지원"
