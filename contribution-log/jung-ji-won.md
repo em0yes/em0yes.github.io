@@ -1,8 +1,10 @@
 ---
-title: "Park Su-jin's Contribution Log"
 layout: default
+title: 정지원
+parent: Contribution Log
+nav_order: 3
 ---
 
-# Park Su-jin
+# 정지원
 
-This page contains the contribution log of Park Su-jin.
+This page contains the contribution log of Jung Ji-won.
