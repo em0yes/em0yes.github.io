@@ -16,7 +16,7 @@ nav_order: 1
 - [Weekly Reports](/pages/weekly-reports/)
 
 ### Contribution Log
-- [Kim Ji-yoon](pages/contribution-log/kim-ji-yoon/)
-- [Park Su-jin](pages/contribution-log/park-su-jin/)
+- [Kim Ji-yoon](contribution-log/kim-ji-yoon/)
+- [Park Su-jin](/contribution-log/park-su-jin/)
 - [Jung Ji-won](pages/contribution-log/jung-ji-won/)
 - [Lee Da-eun](pages/contribution-log/lee-da-eun/)
