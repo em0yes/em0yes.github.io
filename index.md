@@ -9,10 +9,10 @@ nav_order: 1
 ## Categories
 
 ### Weekly Meeting Minutes
-- [Weekly Meeting]({{ site.baseurl }}/pages/weekly-meeting.md/)
+- [Weekly Meeting]({{ site.baseurl }}/pages/weekly-meeting.md)
 
 ### Weekly Reports
-- [Weekly Reports]({{ site.baseurl }}/pages/weekly-reports/)
+- [Weekly Reports]({{ site.baseurl }}/pages/weekly-reports)
 
 ### Contribution Log
 - [Kim Ji-yoon]({{ site.baseurl }}/pages/contribution-log/kim-ji-yoon/)
