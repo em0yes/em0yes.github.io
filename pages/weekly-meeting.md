@@ -1,6 +1,7 @@
 ---
 title: 주간 회의록
 layout: default
+nav_order: 2
 ---
 
 # 주간 회의록
