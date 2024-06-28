@@ -1,5 +1,5 @@
 title: 2024 Capstone Design
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: A starter template for a Jekyll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://em0yes.github.io
@@ -18,10 +18,10 @@ nav:
   - title: "Contribution Log"
     items:
       - title: "Kim Ji-yoon"
-        url: "/contribution-log/Kim Ji-yoon/"
+        url: "/contribution-log/kim-ji-yoon/"
       - title: "Park Su-jin"
-        url: "/contribution-log/Park Su-jin/"
+        url: "/contribution-log/park-su-jin/"
       - title: "Jung Ji-won"
-        url: "/contribution-log/Jung Ji-won/"
+        url: "/contribution-log/jung-ji-won/"
       - title: "Lee Da-eun"
-        url: "/contribution-log/Lee Da-eun/"
+        url: "/contribution-log/lee-da-eun/"
