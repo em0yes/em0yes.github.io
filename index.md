@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Categories
 
-### Weekly Meeting Minutes
+### Weekly Meeting
 - [Weekly Meeting]({{ site.baseurl }}/pages/weekly-meeting.md)
 
 ### Weekly Reports
