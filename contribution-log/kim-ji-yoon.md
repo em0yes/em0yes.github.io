@@ -1,6 +1,8 @@
 ---
-title: "Kim Ji-yoon's Contribution Log"
 layout: default
+title: Kim Ji-yoon
+parent: Contribution Log
+nav_order: 2
 ---
 
 # Kim Ji-yoon
