@@ -12,7 +12,7 @@ nav:
   - title: "Home"
     url: "/"
   - title: "주간 회의록"
-    url: "/pages/weekly-meeting/"
+    url: "/weekly-meeting/"
   - title: "주간 보고서"
     url: "/pages/weekly-reports/"
   - title: "Contribution Log"
