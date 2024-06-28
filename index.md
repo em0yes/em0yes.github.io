@@ -13,7 +13,7 @@ nav_order: 1
 - [Weekly Meeting](pages/weekly-meeting/)
 
 ### Weekly Reports
-- [Weekly Reports](pages/weekly-reports/)
+- [Weekly Reports](/pages/weekly-reports/)
 
 ### Contribution Log
 - [Kim Ji-yoon](pages/contribution-log/kim-ji-yoon/)
