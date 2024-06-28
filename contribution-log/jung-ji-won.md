@@ -1,2 +1,8 @@
+---
+title: "Park Su-jin's Contribution Log"
+layout: default
+---
 
-dfsfdfs
+# Park Su-jin
+
+This page contains the contribution log of Park Su-jin.
