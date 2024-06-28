@@ -2,7 +2,7 @@
 layout: default
 title: 김지윤
 parent: Contribution Log
-nav_order: 2
+nav_order: 1
 ---
 
 # 김지윤
