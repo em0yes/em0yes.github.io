@@ -1,6 +1,7 @@
 ---
 title: 주간 보고서
 layout: default
+nav_order: 3
 ---
 
 # 주간 보고서
