@@ -8,3 +8,5 @@ nav_order: 1
 # 김지윤
 
 This page contains the contribution log of Kim Ji-yoon.
+
+[Kim Ji-yoon]({{ site.baseurl }}/pages/contribution-log/kjy/0629)
