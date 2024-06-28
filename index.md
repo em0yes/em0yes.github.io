@@ -9,7 +9,7 @@ nav_order: 1
 ## Categories
 
 ### Weekly Meeting Minutes
-- [Weekly Meeting]({{ site.baseurl }}/pages/weekly-meeting/)
+- [Weekly Meeting]({{ site.baseurl }}/pages/weekly-meeting.md/)
 
 ### Weekly Reports
 - [Weekly Reports]({{ site.baseurl }}/pages/weekly-reports/)
