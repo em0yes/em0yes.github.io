@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-title: Home
+title: Weekly Meeting Minutes
 layout: home
 ---
 ---
