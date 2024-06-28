@@ -10,13 +10,13 @@ nav_order: 1
 ## Categories
 
 ### Weekly Meeting Minutes
-- [Weekly Meeting](/pages/weekly-meeting/)
+- [Weekly Meeting](pages/weekly-meeting/)
 
 ### Weekly Reports
-- [Weekly Reports](/pages/weekly-reports/)
+- [Weekly Reports](pages/weekly-reports/)
 
 ### Contribution Log
-- [Kim Ji-yoon](/pages/contribution-log/kim-ji-yoon/)
-- [Park Su-jin](/pages/contribution-log/park-su-jin/)
-- [Jung Ji-won](/pages/contribution-log/jung-ji-won/)
-- [Lee Da-eun](/pages/contribution-log/lee-da-eun/)
+- [Kim Ji-yoon](pages/contribution-log/kim-ji-yoon/)
+- [Park Su-jin](pages/contribution-log/park-su-jin/)
+- [Jung Ji-won](pages/contribution-log/jung-ji-won/)
+- [Lee Da-eun](pages/contribution-log/lee-da-eun/)
