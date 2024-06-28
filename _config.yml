@@ -11,12 +11,16 @@ aux_links:
 nav:
   - title: "Home"
     url: "/"
+    nav_order: 1
   - title: "주간 회의록"
     url: "/weekly-meeting/"
+    nav_order: 2
   - title: "주간 보고서"
     url: "/weekly-reports/"
+    nav_order: 3
   - title: "Contribution Log"
     url: "/contribution-log/"
+    nav_order: 4
     children:
       - title: "김지윤"
         url: "/contribution-log/kim-ji-yoon.md"
