@@ -10,7 +10,7 @@ aux_links:
 # Navigation
 nav:
   - title: "Home"
-    url: "/pages/"
+    url: "/"
   - title: "주간 회의록"
     url: "/pages/weekly-meeting/"
   - title: "주간 보고서"
