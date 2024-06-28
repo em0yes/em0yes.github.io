@@ -1,20 +1,7 @@
 ---
 title: Home
 layout: home
-title: Weekly Meeting Minutes
-layout: home
 ---
----
-layout: default
-title: Weekly Meeting Minutes
-nav_order: 1
-has_children: false
----
----
-layout: default
-title: Weekly Reports
-nav_order: 2
-has_children: false
 ---
 
 # Capstone Design Project Blog
