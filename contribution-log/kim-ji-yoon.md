@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Kim Ji-yoon
+title: 김지윤
 parent: Contribution Log
 nav_order: 2
 ---
 
-# Kim Ji-yoon
+# 김지유
 
 This page contains the contribution log of Kim Ji-yoon.
