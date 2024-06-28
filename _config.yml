@@ -6,3 +6,22 @@ url: https://em0yes.github.io
 
 aux_links:
   Template Repository: https://github.com/em0yes/em0yes.github.io
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Weekly Meeting Minutes"
+    url: "/weekly-meeting-minutes/"
+  - title: "Weekly Reports"
+    url: "/weekly-reports/"
+  - title: "Contribution Log"
+    items:
+      - title: "Kim Ji-yoon"
+        url: "/contribution-log/kim-ji-yoon/"
+      - title: "Park Su-jin"
+        url: "/contribution-log/park-su-jin/"
+      - title: "Jung Ji-won"
+        url: "/contribution-log/jung-ji-won/"
+      - title: "Lee Da-eun"
+        url: "/contribution-log/lee-da-eun/"
