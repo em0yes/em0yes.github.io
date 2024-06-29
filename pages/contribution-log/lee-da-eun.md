@@ -7,4 +7,4 @@ nav_order: 4
 
 # 이다은
 
-This page contains the contribution log of Lee Da-eun.
+[0630]({{ site.baseurl }}/pages/contribution-log/lde/0630)
