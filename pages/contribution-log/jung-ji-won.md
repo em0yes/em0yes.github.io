@@ -7,4 +7,4 @@ nav_order: 3
 
 # 정지원
 
-This page contains the contribution log of Jung Ji-won.
+[0630]({{ site.baseurl }}/pages/contribution-log/jjw/0630)
