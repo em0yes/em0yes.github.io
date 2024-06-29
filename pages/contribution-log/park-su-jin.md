@@ -7,4 +7,4 @@ nav_order: 2
 
 # 박수진
 
-This page contains the contribution log of Park Su-jin.
+[0630]({{ site.baseurl }}/pages/contribution-log/psj/0630)
