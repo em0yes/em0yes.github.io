@@ -9,4 +9,4 @@ nav_order: 1
 
 This page contains the contribution log of Kim Ji-yoon.
 
-[0629]({{ site.baseurl }}/pages/contribution-log/kjy/0629)
+[0629]({{ site.baseurl }}/pages/contribution-log/kjy/0630)
