@@ -26,3 +26,9 @@ nav:
         url: "/pages/contribution-log/jung-ji-won/"
       - title: "이다은"
         url: "/pages/contribution-log/lee-da-eun/"
+
+#콜아웃 css
+callouts:
+  note-title:
+    title: 회의 일정
+    color: 	.bg-purple-000
